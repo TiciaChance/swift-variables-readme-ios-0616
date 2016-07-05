@@ -1,12 +1,12 @@
 var favoriteCharacter = "Jon Snow"
 print(favoriteCharacter)
 
-favoriteCharacter = "Tyrion Lannister"
+favoriteCharacter = "Grey Worm"
 print(favoriteCharacter)
 
-favoriteCharacter = 76
+// favoriteCharacter = 76 -- nope - cannot be of a different type f
 
 let ultimateFavoriteCharacter = "Arya Stark"
 print(ultimateFavoriteCharacter)
 
-ultimateFavoriteCharacter = "Daenerys Targaryen"
+//ultimateFavoriteCharacter = "Daenerys Targaryen" -- cannot change the value of a constant
